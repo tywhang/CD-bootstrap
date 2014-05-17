@@ -1,0 +1,38 @@
+#main-navigation ul {
+	margin-right: 10px;
+}
+
+body {
+	background-color: black;
+}
+
+.jumbotron {
+	background-color: #009999;
+	background-repeat: no-repeat;
+	color: white;
+	margin: 0;
+}
+
+.jumbotron button {
+	margin: 2em;
+}
+
+#bio {
+	background-color: yellow;
+}
+
+#main {
+	background-color: green;
+}
+
+	#main h3 {
+		margin: 0;
+	}
+
+#links {
+	background-color: red;
+}
+
+.navbar h4, ul {
+	display: inline-block;
+}
